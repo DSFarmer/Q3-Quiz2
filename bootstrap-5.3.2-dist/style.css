@@ -1,0 +1,65 @@
+body {
+	font-family: 'Mukta', sans-serif;
+	background-image: url("https://magid.com/wp-content/uploads/2022/03/GettyImages-1198358870-1440x906.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+mark {
+	background-color: transparent;
+	color: green;
+}
+
+.center {
+	text-align: center;
+	font-size: small;
+	vertical-align: middle;
+}
+
+.title {
+	font-size: 50px !important;
+	font-weight: lighter;
+}
+
+.bold {
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.footer {
+	font-size: 15px;
+	font-weight: light;
+}
+
+.container {
+	position: relative;
+	width: 85%;
+	padding: 20px;
+	border-radius: 10px;
+}
+
+
+h2 {
+	color: darkred;
+}
+
+.form-group {
+	display: flex;
+	flex-direction: column;
+	padding: 10px;
+	margin-bottom: 10px;
+	border: 1px solid black;
+	border-radius: 4px;
+}
+
+.navbar {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+img {
+	width: 90px;
+
+
+
